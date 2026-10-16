@@ -20,8 +20,8 @@ private for now.
 
 Needs **macOS 26 or later**, on Apple silicon or Intel.
 
-Termetal looks for a new version once a day and shows **Update** in the title
-bar when one is ready; click it to install. **Termetal > Check for Updates…**
+Termetal looks for a new version when it starts and then once a day, and shows
+**Update** in the title bar when one is ready; click it to install. **Termetal > Check for Updates…**
 looks right away. **Settings > Updates** sets how often it looks (every hour,
 day or week, or never) and shows the notes of every release. Your settings,
 sessions and Projects stay where they are.
