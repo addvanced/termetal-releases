@@ -12,7 +12,7 @@ that feels at home on the Mac.
 [![Download Termetal](https://img.shields.io/badge/Download-Termetal.dmg-2F81F7?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/addvanced/termetal-releases/releases/latest/download/Termetal.dmg)
 
 [![Latest release](https://img.shields.io/github/v/release/addvanced/termetal-releases?label=latest&color=2F81F7)](https://github.com/addvanced/termetal-releases/releases/latest)
-![macOS 26+](https://img.shields.io/badge/macOS-26%2B-black?logo=apple&logoColor=white)
+![macOS 15+](https://img.shields.io/badge/macOS-15%2B-black?logo=apple&logoColor=white)
 ![Apple silicon and Intel](https://img.shields.io/badge/Apple%20silicon%20%26%20Intel-universal-8A8A8A)
 ![Notarized](https://img.shields.io/badge/notarized-Developer%20ID-2EA44F)
 
@@ -33,7 +33,7 @@ the releases and the feedback; the source is private for now.
 3. Eject the disk image and open Termetal from Applications. It's signed with Developer ID
    and notarized by Apple, so macOS opens it without warnings.
 
-Needs **macOS 26 or later**, on Apple silicon or Intel. Older versions and their notes are
+Needs **macOS 15 or later**, on Apple silicon or Intel. Older versions and their notes are
 under [Releases](https://github.com/addvanced/termetal-releases/releases).
 
 ## Highlights
